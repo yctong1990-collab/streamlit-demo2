@@ -10,7 +10,7 @@ st.subheader("An interactive Python web app")
 
 # Display text and markdown
 st.text("This is plain text.")
-st.markdown("**This is bold markdown text.**")
+st.markdown("**This is boldddd markdown text.**")
 
 # Display status messages
 st.success("Operation successful!")
